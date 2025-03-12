@@ -1,7 +1,6 @@
 // Average of three numbers.
 #include <stdio.h>
 #include <conio.h>
-#include <stdlib.h>
 void main()
 {
     int a = 9, b = 6, c = 2;
