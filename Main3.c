@@ -11,7 +11,7 @@ void main()
     ADD = a + b;
     SUB = a - b;
     MUL = a * b;
-    DIV = a / b;
+    DIV =(float)a / b;
     printf("\nAddition = %d", ADD);
     printf("\nSubtraction = %d", SUB);
     printf("\nMultiplication = %d", MUL);
