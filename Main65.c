@@ -3,17 +3,15 @@
 #include <conio.h>
 void main()
 {
-    int N, I, *n, *i;
-    long int F = 1, *f;
+    int N, I, *n;
+    long int F = 1;
     system("cls");
     printf("Input a Number = ");
     scanf("%d", &N);
     n = &N;
-    i = &I;
-    f = &F;
-    for (I = N; I >= 1; I--)
+    for (I = (*N); I >= 1; I--)
     {
-        F = (*f) * (*i);
+        F = F * I;
     }
     printf("Factorial value = %d", F);
 }
