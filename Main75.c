@@ -7,7 +7,7 @@ void main()
     int I;
     system("cls");
     printf("Input a string = ");
-    scanf("%s", NAME);
+    scanf("%s", &NAME);
     printf("Its characters --- ");
     for (I = 0; NAME[I] != '\0'; I++)
     {
