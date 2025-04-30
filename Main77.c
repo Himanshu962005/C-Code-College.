@@ -7,7 +7,7 @@ void main()
     char STR[10], VTR[10];
     system("cls");
     printf("Input a string = ");
-    scanf("%s", STR);
+    scanf("%s", &STR);
     strcpy(VTR, STR);
     printf("\n Copied string = %s", VTR);
 }
