@@ -1,4 +1,4 @@
-// Test given number is Even or Odd.
+// Test given number is Even or Odd using user-defined function.
 #include <stdio.h>
 #include <conio.h>
 void EVO(int n)
