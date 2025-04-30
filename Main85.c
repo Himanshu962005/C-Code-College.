@@ -1,4 +1,4 @@
-// Calculate the area and circumference of the circle.
+// Calculate the area and circumference of the circle using user-defined function.
 #include <stdio.h>
 #include <conio.h>
 void Are(int r)
