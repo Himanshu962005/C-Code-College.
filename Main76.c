@@ -8,7 +8,7 @@ void main()
     int L;
     system("cls");
     printf("Input a string = ");
-    scanf("%s", STR);
+    scanf("%s", &STR);
     L = strlen(STR);
     printf("Length of the string = %d", L);
 }
