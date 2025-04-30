@@ -7,9 +7,9 @@ void main()
     char STR[10], VTR[10];
     system("cls");
     printf("Input First String = ");
-    scanf("%s", STR);
+    scanf("%s", &STR);
     printf("Input Second String = ");
-    scanf("%s", VTR);
+    scanf("%s", &VTR);
     if (strcmp(STR, VTR) == 0)
     {
         printf("Both are equal");
