@@ -1,4 +1,4 @@
-// Print Tables of given number.
+// Print Tables of given number using user-defined function.
 #include <stdio.h>
 #include <conio.h>
 void Tab(int n)
