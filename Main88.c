@@ -1,4 +1,4 @@
-// Swapping of two numbers using user defined function.
+// Swapping of two numbers using user-defined function.
 #include <stdio.h>
 #include <conio.h>
 void swap(int a, int b) // Formal (Dummy) arguments.
