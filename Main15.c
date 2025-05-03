@@ -7,7 +7,7 @@ void main()
     system("cls");
     printf("Input a number = ");
     scanf("%d", &n);
-    if (n > 0)
+    if (n < 0)
     {
         printf("The number is positive.");
     }
