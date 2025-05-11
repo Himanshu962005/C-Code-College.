@@ -1,4 +1,4 @@
-// Write a structure capable of storing date. Write a function to compare those dates? Solve problem for time using ‘typedef’ keyword.
+// Write a structure capable of storing date. Write a function to compare those dates? Solve problem for time using 'ypedef' keyword.
 #include <stdio.h>
 #include <conio.h>
 typedef struct Date
