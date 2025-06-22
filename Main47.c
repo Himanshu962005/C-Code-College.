@@ -11,7 +11,7 @@ void main()
         scanf("%d", &N[I]);
     }
     printf("\n Array Elements = ");
-    for (I = 0; I < 9; I++)
+    for (I = 0; I <= 9; I++)
     {
         printf("%d ", N[I]);
         S = S + N[I]; // Calculating sum
