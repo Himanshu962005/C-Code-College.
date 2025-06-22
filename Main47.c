@@ -6,7 +6,7 @@ void main()
     int N[10], I, S = 0;
     system("cls");
     printf("Input any 10 numbers for an array =\n");
-    for (I = 0; I < 9; I++)
+    for (I = 0; I <= 9; I++)
     {
         scanf("%d", &N[I]);
     }
