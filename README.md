@@ -1,4 +1,4 @@
-# C-Code-College. 🖥️
+# C-Code-College.
 
 ![C](https://img.shields.io/badge/Language-C-blue?style=for-the-badge&logo=c&logoColor=white)
 ![License](https://img.shields.io/badge/License-Apache%202.0-red?style=for-the-badge)
