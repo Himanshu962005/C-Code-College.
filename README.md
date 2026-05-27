@@ -1,4 +1,4 @@
-# C-Code-College.
+# **C-Code-College.**
 
 ![C](https://img.shields.io/badge/Language-C-blue?style=for-the-badge&logo=c&logoColor=white)
 ![License](https://img.shields.io/badge/License-Apache%202.0-red?style=for-the-badge)
@@ -9,7 +9,7 @@
 
 ---
 
-## ✨ Features
+## ✨ Features.
 
 * **Statically typed language** with strict compile-time type checking.
 * **Manual memory management** using pointers and dynamic allocation.
@@ -20,7 +20,7 @@
 
 ---
 
-## ⚙️ Uses
+## ⚙️ Uses.
 
 * **Build operating systems** and system-level software.
 * **Develop embedded systems** and firmware for microcontrollers.
@@ -30,7 +30,7 @@
 
 ---
 
-## 🧠 Example
+## 🧠 Example.
 
 ```c
 #include <stdio.h>
@@ -50,7 +50,7 @@ Hello, Himanshu! Welcome to C-Code-College.
 
 ---
 
-## 🛠️ Technologies
+## 🛠️ Technologies.
 
 | Tool            | Purpose                 |
 |-----------------|-------------------------|
@@ -62,7 +62,7 @@ Hello, Himanshu! Welcome to C-Code-College.
 
 ---
 
-## 🎯 Conclusion
+## 🎯 Conclusion.
 
 **C** is one of the most fundamental and powerful programming languages ever created. It is the backbone of modern computing — from operating systems to embedded devices. Mastering C gives you a deep understanding of how software truly works at the hardware level, making you a stronger and more efficient developer in any language you choose to learn next.
 
