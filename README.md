@@ -1,4 +1,4 @@
-# <img src="https://img.shields.io/badge/C-Programming-blue?style=flat&logo=c&logoColor=white" /> **C-Code-College.**
+# C-Code-College.
 
 ![Systems Language](https://img.shields.io/badge/Systems-Language-378ADD)
 ![Open Standard](https://img.shields.io/badge/Open-Standard-1D9E75)
